@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Saksham!
 
 <a href="www.linkedin.com/in/sakshamgera">
-  <img align="left" alt="Saksham Gera | Linkedin" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+  <img align="left" alt="Saksham Gera | Linkedin" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/linkedin.png"/>
 </a>
 
 
