@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Saksham!
 
-<a href="www.linkedin.com/in/sakshamgera">
-</a>
-
-
-<br />
 <br />
 
 - 🌱 I’m a Computer Science Grad Student at University of illinois, Urbana-Champaign
