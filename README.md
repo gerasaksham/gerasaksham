@@ -8,7 +8,7 @@
 <br />
 <br />
 
-- 🌱 I’m a Pre - Final year Undergrad Student at Delhi Technological University(Formerly DCE)
+- 🌱 I’m a Computer Science Grad Student at University of illinois, Urbana-Champaign
  
 
 
